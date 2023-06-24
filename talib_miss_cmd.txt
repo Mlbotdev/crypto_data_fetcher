@@ -1,0 +1,4 @@
+!pip install ccxt
+!pip install "git+https://github.com/richmanbtc/crypto_data_fetcher.git@v0.0.18#egg=crypto_data_fetcher"
+!pip install lightgbm
+!python -m pip install TA-Lib
